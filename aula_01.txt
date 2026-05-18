@@ -1,0 +1,16 @@
+OO é um paradigma(jeito de pensar) 
+simular coisas real dentro do codigo 
+
+1 classe : e o esqueleto do objeto
+
+obeto : instancia, chama a classe e da um conjunto de atributos 
+
+ex; a planta de um casa e uma classe, mas voce nao consegue morar na planta
+
+mas a partir da plata voce consegue construir as casas que sao os objetos 
+
+classe e feita de atributos que sao sao variaveis 
+classe possui atributos ( carcteristicas e dados) e metodos(o que faz)
+
+o static nao se usa mais nesse caso pois significa que pertence ao sistema inteiro e o objeto e exclusivo
+

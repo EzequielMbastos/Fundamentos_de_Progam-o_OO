@@ -21,3 +21,6 @@ variavel public pode ser acesseda da main, privata do pode ser acessado atraves 
 protected = pode acesar na classe mae e nas filhas.
 
 super (n) = metodo que chama um construtor
+
+@Override para sinalizar que um metodo e sobreescrito
+isso diz que o metodo existe na classe mae mas e um pouco diferente na classe filha

@@ -24,3 +24,15 @@ super (n) = metodo que chama um construtor
 
 @Override para sinalizar que um metodo e sobreescrito
 isso diz que o metodo existe na classe mae mas e um pouco diferente na classe filha
+
+revisao
+
+problema da heranca simples : classes abstratas e metodo abstrato 
+public abstract class
+
+diferenca entre puclib, private e protected? 
+
+problema da heranca multipla, para isso usa implements
+
+try catch e finally estudar;
+
